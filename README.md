@@ -1,5 +1,4 @@
-# WebSite
-This project is for my portofolio on Netlify App
+
 # Name
 Website
 # Description
